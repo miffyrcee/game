@@ -1,0 +1,15 @@
+[[source]]
+name = "pypi"
+url = "https://pypi.tuna.tsinghua.edu.cn/simple"
+verify_ssl = true
+
+[dev-packages]
+
+[packages]
+pygame = "*"
+numpy = "*"
+scratch = "*"
+wxpython = {path = "/home/miffyrcee/Downloads/wxPython-4.0.3-cp37-cp37m-linux_x86_64.whl"}
+
+[requires]
+python_version = "3.7"
